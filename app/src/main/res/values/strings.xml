@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TranscendenceRev</string>
+    <string name="connect">Connect</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="climb">climb</string>
+    <string name="descend">Descend</string>
+    <string name="transcend">Transcend</string>
+    <string name="grip">Grip</string>
+    <string name="right">Right</string>
+    <string name="release">Release</string>
+    <string name="stop">Stop</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="platform">Platform</string>
+    <string name="up">UP</string>
+    <string name="down">Down</string>
+</resources>
