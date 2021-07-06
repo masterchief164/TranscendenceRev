@@ -616,7 +616,7 @@ public class MainActivity extends AppCompatActivity {
                 You should try using other methods i.e. :
                 tmp = device.createRfcommSocketToServiceRecord(MY_UUID);
                  */
-                tmp = bluetoothDevice.createInsecureRfcommSocketToServiceRecord(uuid);
+                tmp = bluetoothDevice.createRfcommSocketToServiceRecord(uuid);
 
 
             } catch (IOException e) {
